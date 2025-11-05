@@ -15,6 +15,5 @@ I'm documenting my journey on [Instagram](https://www.instagram.com/sambhav_athr
     - Built two compact CNN baselines with on-the-fly augmentation to classify nitrogen status from leaf images (4 classes; ~5.4k train / 400 test); early-stopping improved generalization, with the deeper model reaching ~0.67–0.68 val accuracy.
       
   - Generative Video-Game Music — TensorFlow + Google Magenta
-    - Trained Magenta models on a playlist of my favorite tracks to generate new midi-style compositions; experimented with data prep, model conditioning, and sampling strategies.  
-    - Colab: [Magenta Music Generation Notebook](https://colab.research.google.com/drive/1rFnm80lWgmd5Nb2feuqN_J01z6sr2MeE)
+    - Trained [Magenta](https://colab.research.google.com/drive/1rFnm80lWgmd5Nb2feuqN_J01z6sr2MeE) models on a playlist of my favorite tracks to generate new midi-style compositions; experimented with data prep, model conditioning, and sampling strategies.
 
