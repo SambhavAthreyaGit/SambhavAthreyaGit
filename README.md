@@ -3,7 +3,7 @@
 #### Sophomore CS @ University of Toronto
 
 Prev. ML Engineer Intern at [Good News Ventures](https://www.goodnewsventures.com/);<br>
-Prev. [UofT Machine Intelligence Student Team ]
+Prev. [UofT Machine Intelligence Student Team ](https://www.utmist.ca/careers);<br>
 I'm documenting my journey on [Instagram](https://www.instagram.com/sambhav_athreya/);<br>
 
 - ⚙️ I use: `.py`, `.js`, `.html`, `.css`, `.go`, `.tsx`, `.ai`
