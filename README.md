@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hello there 👋
+
+#### Sophomore CS @ University of Toronto
+
+Prev. ML Engineer Intern at [Good News Ventures](https://www.goodnewsventures.com/);<br>
+Prev. [UofT Machine Intelligence Student Team ]
+I'm documenting my journey on [Instagram](https://www.instagram.com/sambhav_athreya/);<br>
+
+- ⚙️ I use: `.py`, `.js`, `.html`, `.css`, `.go`, `.tsx`, `.ai`
+- 🔭 I’m currently working on Nautilus - one of the world's first agentic operating systems. I believe most, if not all of a computer could be automated via bash commands, so I developed a CLI converting natural-language to bash.
+
 
 <!--
 **SambhavAthreyaGit/SambhavAthreyaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
